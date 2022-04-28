@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\bin\Debug\netcoreapp3.1\P324_Static_Extensions.exe
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\bin\Debug\netcoreapp3.1\P324_Static_Extensions.deps.json
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\bin\Debug\netcoreapp3.1\P324_Static_Extensions.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\bin\Debug\netcoreapp3.1\P324_Static_Extensions.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\bin\Debug\netcoreapp3.1\P324_Static_Extensions.dll
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\bin\Debug\netcoreapp3.1\P324_Static_Extensions.pdb
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\obj\Debug\netcoreapp3.1\P324_Static_Extensions.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\obj\Debug\netcoreapp3.1\P324_Static_Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\obj\Debug\netcoreapp3.1\P324_Static_Extensions.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\obj\Debug\netcoreapp3.1\P324_Static_Extensions.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\obj\Debug\netcoreapp3.1\P324_Static_Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\obj\Debug\netcoreapp3.1\P324_Static_Extensions.dll
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\obj\Debug\netcoreapp3.1\P324_Static_Extensions.pdb
+C:\Users\Lenovo\source\repos\P324_Static_Extensions\P324_Static_Extensions\obj\Debug\netcoreapp3.1\P324_Static_Extensions.genruntimeconfig.cache
